@@ -1,12 +1,13 @@
-## Hi there 👋
+# Pixingo Architecture
 
-<!--
+## [Pixingo AL2 (Web app)](https://pixingo.com/)
+This is where a majority of the code of this project is held. This contains the API and the frontend all in one repository.
 
-**Here are some ideas to get you started:**
+### Technologies Used:
+Angular, Node.js, MySQL, AWS Lambda, AWS S3, AWS SQS, AWS RDS, AWS CodePipeline, Tailwind.css
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## [Pixingo 3 ("mobile site")](https://m.pixingo.com/)
+This is the "mobile-friendly" site. It features a more streamlined approach towards checking out cards, where users do not have the ability to customize cards in the studio like the al2 site does. But the checkout process is much faster. This site contains many links to the original site.
+
+### Technologies Used:
+Vue, Nuxt, Tailwind.css, Netlify
