@@ -11,3 +11,6 @@ This is the "mobile-friendly" site. It features a more streamlined approach towa
 
 ### Technologies Used:
 Vue, Nuxt, Tailwind.css, Netlify
+
+## [ByDesign](https://admin.securefreedom.com/Pixingo/login.aspx?page=%2fPixingo%2fDefault.asp%3f&strmsg=)
+ByDesign is used primarily for handling payments. It it also used for managing customers and products. This is a core part of the API's architecture.
